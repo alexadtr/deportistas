@@ -1,0 +1,175 @@
+{
+    "deportistas": [
+        {
+                "id": "1",
+                "name": "Antoine Griezmann",
+                "deporte": "fútbol",
+                "imagen": "https://ecuadorwillana.com/wp-content/uploads/2018/09/Antoine_Griezmann.jpg",
+                "fecha_nac" : "12/07/1998",
+                "nacionalidad" : "francés",
+		"wiki" : "https://es.wikipedia.org/wiki/Antoine_Griezmann",
+                "palmarés": [{
+                    "año": "2018",
+                    "trofeo": "Campeón de Europa League"
+                },{
+                    "año": "2017",
+                    "trofeo": "Campeón de Europa League"
+                }]
+        },
+
+	{
+                "id": "2",
+                "name": "Rafael Nadal",
+                "deporte": "tenis",
+                "imagen": "https://ausopen.com/sites/default/files/styles/400x/public/201901/24/20190124_nadal_d11_10_t.jpg",
+                "fecha_nac" : "03/06/1986",
+                "nacionalidad" : "español",
+		"wiki" : "https://es.wikipedia.org/wiki/Rafael_Nadal",
+                "palmarés": [{
+                    "año": "2018",
+                    "trofeo": "Roland Garros"
+                },{
+                    "año": "2017",
+                    "trofeo": "US Open"
+                }]
+        },
+
+	{
+                "id": "3",
+                "name": "Roger Federer",
+                "deporte": "tenis",
+                "imagen": "https://www.tennisworldes.com/imgb/19383/con-37-anos-roger-federer-consigue-otra-marca-historica.jpg",
+                "fecha_nac" : "08/08/1981",
+                "nacionalidad" : "suizo",
+		"wiki" : "https://es.wikipedia.org/wiki/Roger_Federer",
+                "palmarés": [{
+                    "año": "2018",
+                    "trofeo": "Open de Australia"
+                },{
+                    "año": "2017",
+                    "trofeo": "Open de Australia"
+                }]
+        },
+
+	{
+                "id": "4",
+                "name": "Novak Djokovic",
+                "deporte": "tenis",
+                "imagen": "https://specials-images.forbesimg.com/imageserve/593694044bbe6f1b730b2f7f/416x416.jpg",
+                "fecha_nac" : "22/05/1987",
+                "nacionalidad" : "serbio",
+		"wiki" : "https://es.wikipedia.org/wiki/Novak_%C4%90okovi%C4%87",
+                "palmarés": [{
+                    "año": "2018",
+                    "trofeo": "Wimbledon"
+                },{
+                    "año": "2017",
+                    "trofeo": "Roland Garros"
+                }]
+        },
+
+	{
+                "id": "5",
+                "name": "Toni Kroos",
+                "deporte": "fútbol",
+                "imagen": "https://timesofindia.indiatimes.com/thumb/msid-64473018,imgsize-77159,width-400,resizemode-4/64473018.jpg",
+                "fecha_nac" : "04/01/1990",
+                "nacionalidad" : "alemana",
+		"wiki" : "https://es.wikipedia.org/wiki/Toni_Kroos",
+                "palmarés": [{
+                    "año": "2018",
+                    "trofeo": "Champions League"
+                },{
+                    "año": "2017",
+                    "trofeo": "Champions League"
+                }]
+        },
+
+	{
+                "id": "6",
+                "name": "Sergio Ramos",
+                "deporte": "fútbol",
+                "imagen": "https://estaticos.sport.es/resources/jpg/2/1/sergio-ramos-biografia-usar-1461062514212.jpg",
+                "fecha_nac" : "30/03/1986",
+                "nacionalidad" : "española",
+		"wiki" : "https://es.wikipedia.org/wiki/Sergio_Ramos",
+                "palmarés": [{
+                    "año": "2018",
+                    "trofeo": "Champions League"
+                },{
+                    "año": "2017",
+                    "trofeo": "Champions League"
+                }]
+        },
+
+	{
+                "id": "7",
+                "name": "Luka Modric",
+                "deporte": "fútbol",
+                "imagen": "https://rec-end.elnuevodia.com/images/tn/252/0/1860/1400/900/789/2018/07/14/modric.jpg",
+                "fecha_nac" : "09/09/1985",
+                "nacionalidad" : "croata",
+		"wiki" : "https://es.wikipedia.org/wiki/Luka_Modri%C4%87",
+                "palmarés": [{
+                    "año": "2018",
+                    "trofeo": "Champions League"
+                },{
+                    "año": "2017",
+                    "trofeo": "Champions League"
+                }]
+        },
+
+	{
+                "id": "8",
+                "name": "Luka Doncic",
+                "deporte": "baloncesto",
+                "imagen": "https://pbs.twimg.com/profile_images/1034982555538284544/BEeQmYf-_400x400.jpg",
+                "fecha_nac" : "28/02/1999",
+                "nacionalidad" : "eslovena",
+		"wiki" : "https://es.wikipedia.org/wiki/Luka_Don%C4%8Di%C4%87",
+                "palmarés": [{
+                    "año": "2018",
+                    "trofeo": "Campeón de Europa"
+                },{
+                    "año": "2017",
+                    "trofeo": "Campeón de España"
+                }]
+        },
+
+	{
+                "id": "9",
+                "name": "Kyrie Irving",
+                "deporte": "baloncesto",
+                "imagen": "https://specials-images.forbesimg.com/imageserve/5b154d614bbe6f74868b7f91/416x416.jpg",
+                "fecha_nac" : "23/03/1992",
+                "nacionalidad" : "australiana",
+		"wiki" : "https://es.wikipedia.org/wiki/Kyrie_Irving",
+                "palmarés": [{
+                    "año": "2018",
+                    "trofeo": "All-Star NBA"
+                },{
+                    "año": "2017",
+                    "trofeo": "All-Star NBA"
+                }]
+        },
+
+	{
+                "id": "10",
+                "name": "Anthony Davis",
+                "deporte": "baloncesto",
+                "imagen": "https://s22928.pcdn.co/wp-content/uploads/2018/12/Anthony-Davis.jpeg",
+                "fecha_nac" : "11/03/1993",
+                "nacionalidad" : "estadounidense",
+		"wiki" : "https://es.wikipedia.org/wiki/Anthony_Davis_(baloncestista)",
+                "palmarés": [{
+                    "año": "2018",
+                    "trofeo": "Máximo taponador NBA"
+                },{
+                    "año": "2017",
+                    "trofeo": "MVP All-Star NBA"
+                }]
+        }
+
+
+    ]
+}
